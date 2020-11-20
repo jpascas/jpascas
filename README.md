@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/becketth/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpascas&show_icons=true&theme=algolia" />
+</a>
+
+<a href="https://github.com/becketth/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpascas&layout=compact&langs_count=8&theme=algolia" />
+</a>
+
+### 📫 Connect with me:
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jpassalacqua)
+
+
