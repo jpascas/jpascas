@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jpascas/jpascas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/becketth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpascas&show_icons=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpascas&show_icons=true&theme=algolia&count_private=true" />
 </a>
 
-<a href="https://github.com/becketth/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpascas&layout=compact&langs_count=8&theme=algolia" />
-</a>
-
-### 📫 Connect with me:
+### 📫 How to reach me:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jpassalacqua)
 
