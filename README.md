@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/becketth/github-readme-stats">
+<a href="https://github.com/jpascas/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpascas&show_icons=true&theme=algolia&count_private=true" />
 </a>
 
